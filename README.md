@@ -11,3 +11,6 @@ LINEAS
 
 ESQUINA ENTRE LINEAS
 ![WhatsApp Image 2022-06-15 at 8 42 03 PM](https://user-images.githubusercontent.com/102996851/173973285-27360994-cbea-45d3-9103-759d1be6c02f.jpeg)
+
+MANEJO DE ESTADOS
+![WhatsApp Image 2022-06-15 at 8 48 14 PM](https://user-images.githubusercontent.com/102996851/173973959-969ff130-78fb-4c50-9b6f-ba9e5eef88bf.jpeg)
