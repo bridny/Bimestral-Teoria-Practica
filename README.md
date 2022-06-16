@@ -38,3 +38,6 @@ MANEJO DE TEXTO
 
 BASICO 1
 ![WhatsApp Image 2022-06-16 at 10 06 46 AM](https://user-images.githubusercontent.com/102996851/174101280-1b9300d8-2eaf-48ce-8e72-fed011cca596.jpeg)
+
+PRINCIPIOS DE LA ANIMACION
+![WhatsApp Image 2022-06-16 at 10 12 09 AM](https://user-images.githubusercontent.com/102996851/174102392-4f198426-9c5b-497f-8cd7-c5ec10bf6efb.jpeg)
