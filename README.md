@@ -41,3 +41,7 @@ BASICO 1
 
 PRINCIPIOS DE LA ANIMACION
 ![WhatsApp Image 2022-06-16 at 10 12 09 AM](https://user-images.githubusercontent.com/102996851/174102392-4f198426-9c5b-497f-8cd7-c5ec10bf6efb.jpeg)
+
+BORRAR DIBUJAR 
+![WhatsApp Image 2022-06-16 at 10 17 39 AM](https://user-images.githubusercontent.com/102996851/174103601-04f2f174-7981-44a4-9f05-6a4cfd53f220.jpeg)
+
