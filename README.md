@@ -9,3 +9,5 @@ RECTANGULOS
 LINEAS
 ![WhatsApp Image 2022-06-15 at 8 37 42 PM](https://user-images.githubusercontent.com/102996851/173972914-7e3c3fe5-d16b-4c48-b165-a26c81b45f14.jpeg)
 
+ESQUINA ENTRE LINEAS
+![WhatsApp Image 2022-06-15 at 8 42 03 PM](https://user-images.githubusercontent.com/102996851/173973285-27360994-cbea-45d3-9103-759d1be6c02f.jpeg)
