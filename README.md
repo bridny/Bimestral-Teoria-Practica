@@ -17,3 +17,6 @@ MANEJO DE ESTADOS
 
 CREACION DE PATH
 ![WhatsApp Image 2022-06-15 at 9 02 03 PM](https://user-images.githubusercontent.com/102996851/173975382-ab20c1b2-e549-4822-b0c0-786b4846f87d.jpeg)
+
+DIBUJAR ARCOS
+![WhatsApp Image 2022-06-15 at 9 08 27 PM](https://user-images.githubusercontent.com/102996851/173975951-96fcff0b-c6af-4826-b314-c9d96204e9cb.jpeg)
