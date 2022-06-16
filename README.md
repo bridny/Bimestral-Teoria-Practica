@@ -14,3 +14,6 @@ ESQUINA ENTRE LINEAS
 
 MANEJO DE ESTADOS
 ![WhatsApp Image 2022-06-15 at 8 48 14 PM](https://user-images.githubusercontent.com/102996851/173973959-969ff130-78fb-4c50-9b6f-ba9e5eef88bf.jpeg)
+
+CREACION DE PATH
+![WhatsApp Image 2022-06-15 at 9 02 03 PM](https://user-images.githubusercontent.com/102996851/173975382-ab20c1b2-e549-4822-b0c0-786b4846f87d.jpeg)
