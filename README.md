@@ -36,3 +36,5 @@ GRADIENTES RADIALES
 MANEJO DE TEXTO
 ![WhatsApp Image 2022-06-16 at 9 30 28 AM](https://user-images.githubusercontent.com/102996851/174093777-c0a8798b-6a75-4c52-a88a-454b7c2e6f39.jpeg)
 
+BASICO 1
+![WhatsApp Image 2022-06-16 at 10 06 46 AM](https://user-images.githubusercontent.com/102996851/174101280-1b9300d8-2eaf-48ce-8e72-fed011cca596.jpeg)
