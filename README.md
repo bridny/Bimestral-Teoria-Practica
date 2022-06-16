@@ -20,3 +20,6 @@ CREACION DE PATH
 
 DIBUJAR ARCOS
 ![WhatsApp Image 2022-06-15 at 9 08 27 PM](https://user-images.githubusercontent.com/102996851/173975951-96fcff0b-c6af-4826-b314-c9d96204e9cb.jpeg)
+
+CURVAS BEZIER
+![WhatsApp Image 2022-06-15 at 9 14 57 PM](https://user-images.githubusercontent.com/102996851/173976835-d6620924-686a-4a3a-bad2-66e412943243.jpeg)
