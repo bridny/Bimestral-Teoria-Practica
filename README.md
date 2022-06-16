@@ -26,3 +26,6 @@ CURVAS BEZIER
 
 GRADIENTES LINEALES
 ![WhatsApp Image 2022-06-15 at 9 23 38 PM](https://user-images.githubusercontent.com/102996851/173977775-2f7ead9f-d745-4c8d-8619-69b6c458d443.jpeg)
+
+DIFERENTES DIRECCIONES DEL CANVAS
+![WhatsApp Image 2022-06-16 at 8 38 30 AM](https://user-images.githubusercontent.com/102996851/174082994-881a4c2a-f661-4102-9916-30f84dff2fc6.jpeg)
