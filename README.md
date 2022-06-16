@@ -32,3 +32,7 @@ DIFERENTES DIRECCIONES DEL CANVAS
 
 GRADIENTES RADIALES
 ![WhatsApp Image 2022-06-16 at 8 53 08 AM](https://user-images.githubusercontent.com/102996851/174087679-78928176-0808-4557-b0a9-937ffe7cb016.jpeg)
+
+MANEJO DE TEXTO
+![WhatsApp Image 2022-06-16 at 9 30 28 AM](https://user-images.githubusercontent.com/102996851/174093777-c0a8798b-6a75-4c52-a88a-454b7c2e6f39.jpeg)
+
