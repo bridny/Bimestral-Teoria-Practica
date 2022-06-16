@@ -29,3 +29,6 @@ GRADIENTES LINEALES
 
 DIFERENTES DIRECCIONES DEL CANVAS
 ![WhatsApp Image 2022-06-16 at 8 38 30 AM](https://user-images.githubusercontent.com/102996851/174082994-881a4c2a-f661-4102-9916-30f84dff2fc6.jpeg)
+
+GRADIENTES RADIALES
+![WhatsApp Image 2022-06-16 at 8 53 08 AM](https://user-images.githubusercontent.com/102996851/174087679-78928176-0808-4557-b0a9-937ffe7cb016.jpeg)
