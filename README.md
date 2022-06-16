@@ -50,3 +50,7 @@ COLISIONES
 
 PUNTOS FINALES ANIMACION 
 ![WhatsApp Image 2022-06-16 at 10 23 56 AM](https://user-images.githubusercontent.com/102996851/174104856-5596f64b-3c7a-4046-947e-b2296400e5f2.jpeg)
+
+AHORCADO
+![WhatsApp Image 2022-06-16 at 10 52 54 AM](https://user-images.githubusercontent.com/102996851/174113185-cdb92c09-3545-4b7d-bdd8-eee358948136.jpeg)
+
