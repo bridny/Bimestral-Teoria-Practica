@@ -47,3 +47,6 @@ BORRAR DIBUJAR
 
 COLISIONES
 ![WhatsApp Image 2022-06-16 at 10 20 49 AM](https://user-images.githubusercontent.com/102996851/174104178-d866c6f4-cbfb-407a-a6ca-31b1c012e064.jpeg)
+
+PUNTOS FINALES ANIMACION 
+![WhatsApp Image 2022-06-16 at 10 23 56 AM](https://user-images.githubusercontent.com/102996851/174104856-5596f64b-3c7a-4046-947e-b2296400e5f2.jpeg)
