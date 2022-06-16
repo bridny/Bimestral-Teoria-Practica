@@ -23,3 +23,6 @@ DIBUJAR ARCOS
 
 CURVAS BEZIER
 ![WhatsApp Image 2022-06-15 at 9 14 57 PM](https://user-images.githubusercontent.com/102996851/173976835-d6620924-686a-4a3a-bad2-66e412943243.jpeg)
+
+GRADIENTES LINEALES
+![WhatsApp Image 2022-06-15 at 9 23 38 PM](https://user-images.githubusercontent.com/102996851/173977775-2f7ead9f-d745-4c8d-8619-69b6c458d443.jpeg)
